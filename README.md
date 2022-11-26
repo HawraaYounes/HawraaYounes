@@ -1,10 +1,8 @@
 [![MasterHead](https://github.com/HawraaYounes/HawraaYounes/blob/main/vector-web-development-for-website-and-mobile-website-concept-with-character-creative-flat-design-for-web-banner.jpg)](https://HawraaYounes.github.io)
 <h1 align="center">Hi 👋, I'm Hawraa Younes</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A full stack developer</h3>
 <img align="right" alt="coding" width="400" src="68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hawraayounes&label=Profile%20views&color=0e75b6&style=flat" alt="hawraayounes" /> </p>
-
-- 🌱 I’m currently learning **Laravel , React js**
 
 - 📫 How to reach me **hawraayounes0@gmail.com**
 
